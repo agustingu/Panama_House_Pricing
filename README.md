@@ -22,4 +22,4 @@ Assess the house pricing behavior in the Latin American Region to contribute in 
 - ANN
 ## Next Steps:
 Get transportation network data and match it with apartments locations.
-![image](https://user-images.githubusercontent.com/54486202/199816336-e16ea740-ae0c-4128-8633-0ded391a411c.png)
+<img src='https://user-images.githubusercontent.com/54486202/199816336-e16ea740-ae0c-4128-8633-0ded391a411c.png' width=350/>

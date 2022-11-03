@@ -1,7 +1,7 @@
 <img src='https://user-images.githubusercontent.com/54486202/199816336-e16ea740-ae0c-4128-8633-0ded391a411c.png' width=300/>
 
 # Requirements
-Create a virtual environment with the dependencies in the requirements.txt file.
+Create a virtual environment with the dependencies in the [requirements.txt](https://github.com/agustingu/Panama_House_Pricing/blob/main/requirements.txt) file.
 
 # Motivation
 

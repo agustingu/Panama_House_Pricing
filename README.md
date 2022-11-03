@@ -11,5 +11,14 @@ Assess the house pricing behavior in the Latin American Region to contribute in 
 - Accesibility 
 - Equity
 - Inclusion
-## Currently Working on...:
+
+## Current Products:
+- Panama Add Data Scraper: Uses a webdriver to extract apartements on sale in Panama City and export data to .CSV file.
+- Data Preprosessing: Handles outliers, missing data, data scallling, normalization, etc
+
+### Machine Learning algorithms evaluation
+- Regression
+- Random Forest
+- ANN
+## Next Steps:
 Get transportation network data and match it with apartments locations.
